@@ -20,9 +20,7 @@
 						"features": [
 							{ "type": "Feature",
 								"geometry": {"type": "Point", "coordinates": ["latitude", "longitude"]},
-
 							}
-					
 						]
 					}
 				]
