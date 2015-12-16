@@ -19,7 +19,13 @@
 						"type": "FeatureCollection",
 						"features": [
 							{ "type": "Feature",
-								"geometry": {"type": "Point", "coordinates": ["latitude", "longitude"]},
+								"geometry": {
+									"type": "Point", 
+									"coordinates": [
+										"name": "latitude", 
+										"name": "longitude"]
+									
+								},
 							}
 						]
 					}
