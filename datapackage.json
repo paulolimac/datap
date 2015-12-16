@@ -1,8 +1,9 @@
 {
 	"name": "my-dataset",
-	
+	"title": "Title",
 	"resources": [
 		{
+			"name": "name",
 			"path": "data/f.csv",
 			"schema": {
 				"fields": [
