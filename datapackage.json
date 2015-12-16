@@ -1,0 +1,21 @@
+{
+	"name": "my-dataset",
+	
+	"resources": [
+		{
+			"path": "data/f.csv",
+			"schema": {
+				"fields": [
+					{
+						"name": "codigo",
+						"type": "string"
+					},
+					{
+						"name": "nome",
+						"type": "string"
+					},
+				]
+			}
+		}
+	]
+}
