@@ -14,15 +14,15 @@
 					{
 						"name": "nome",
 						"type": "string"
-					}
+					},
 					{
 						"name": "latitude",
 						"type": "string"
-					}
+					},
 					{
 						"name": "longitude",
 						"type": "string"
-					}
+					},
 				]
 			}
 		}
