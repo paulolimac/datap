@@ -14,7 +14,7 @@
 					{
 						"name": "nome",
 						"type": "string"
-					},
+					}
 				]
 			}
 		}
