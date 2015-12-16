@@ -16,18 +16,7 @@
 						"type": "string"
 					},
 					{
-						"type": "FeatureCollection",
-						"features": [
-							{ "type": "Feature",
-								"geometry": {
-									"type": "Point", 
-									"coordinates": [
-										"name": "latitude", 
-										"name": "longitude"]
-									
-								},
-							}
-						]
+						"type": "geopoint"
 					}
 				]
 			}
