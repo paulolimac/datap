@@ -16,7 +16,12 @@
 						"type": "string"
 					},
 					{
-						"type": "geopoint"
+						"type": "object",
+  						"properties": {
+  							"latitude": { "type": "string" },
+  							"longitude":           { "type": "string" },
+						}
+						"required": ["latitude", "longitude"]
 					}
 				]
 			}
