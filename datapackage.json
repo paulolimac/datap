@@ -28,6 +28,31 @@
 			}
 		},
 		{
+			"name": "nameG",
+			"path": "data/g.csv",
+			"schema": {
+				"fields": [
+					{
+						"name": "codigo",
+						"type": "string"
+					},
+					{
+						"name": "nome",
+						"type": "string"
+					},
+					{
+						"name": "latitude",
+						"type": "string"
+					},
+					{
+						"name": "longitude",
+						"type": "string"
+					}
+				],
+				"primaryKey": "codigo"
+			}
+		},
+		{
 			"name": "fg",
 			"path": "data/f.geojson",
 			"format": "geojson",
