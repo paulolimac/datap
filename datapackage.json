@@ -23,8 +23,21 @@
 						"name": "longitude",
 						"type": "string"
 					}
+					{
+						"name": "fora"
+					}
 				],
 				"primaryKey": "codigo"
+				"foreignKeys": [
+					{
+						"fields": "fora"
+						"reference": {
+							"datapackage": "",
+							"resource": "nameG",
+							"fields": "codigo"
+						}
+					}
+				]
 			}
 		},
 		{
