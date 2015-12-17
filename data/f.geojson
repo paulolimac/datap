@@ -13,26 +13,26 @@
       }
     },
     {
--      "type":"Feature",
--      "geometry":{
--        "type":"Point",
--        "coordinates":[-50,-41]
--      },
--      "properties":{
--        "codigo":"fbb11",
--        "nome":"Fi2"
--      }
--    },
--    {
--      "type":"Feature",
--      "geometry":{
--        "type":"Point",
--        "coordinates":[-50,-42]
--      },
--      "properties":{
--        "codigo":"fcc11",
--        "nome":"Fi,3"
--      }
--    }
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-50,-41]
+      },
+      "properties":{
+        "codigo":"fbb11",
+        "nome":"Fi2"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-50,-42]
+      },
+      "properties":{
+        "codigo":"fcc11",
+        "nome":"Fi,3"
+      }
+    }
   ]
 }
