@@ -30,7 +30,7 @@
 				"primaryKey": "codigo",
 				"foreignKeys": [
 					{
-						"fields": "fora"
+						"fields": "fora",
 						"reference": {
 							"datapackage": "",
 							"resource": "nameG",
