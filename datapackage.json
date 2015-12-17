@@ -27,7 +27,7 @@
 						"name": "fora"
 					}
 				],
-				"primaryKey": "codigo"
+				"primaryKey": "codigo",
 				"foreignKeys": [
 					{
 						"fields": "fora"
