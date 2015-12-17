@@ -25,6 +25,10 @@
 					}
 				]
 			}
+		},
+		{
+			"name": "fg",
+			"path": "data/f.geojson"
 		}
 	]
 }
