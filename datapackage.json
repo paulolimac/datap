@@ -28,7 +28,9 @@
 		},
 		{
 			"name": "fg",
-			"path": "data/f.geojson"
+			"path": "data/f.geojson",
+			"format": "geojson",
+			"mediatype": "application/json"
 		}
 	]
 }
