@@ -22,7 +22,7 @@
 					{
 						"name": "longitude",
 						"type": "string"
-					}
+					},
 					{
 						"name": "fora"
 					}
