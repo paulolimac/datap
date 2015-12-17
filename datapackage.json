@@ -33,7 +33,7 @@
 						"fields": "fora",
 						"reference": {
 							"datapackage": "",
-							"resource": "nameG",
+							"resource": "self",
 							"fields": "codigo"
 						}
 					}
