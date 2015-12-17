@@ -16,8 +16,12 @@
 						"type": "string"
 					},
 					{
-						"name": "latlon",
-						"type": "geojson"
+						"name": "latitude",
+						"type": "string"
+					},
+					{
+						"name": "longitude",
+						"type": "string"
 					}
 				]
 			}
