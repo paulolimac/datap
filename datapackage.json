@@ -98,9 +98,7 @@
 			"type": "Graph",
 			"state": {
 				"group": "latitude",
-				"series": [
-					"longitude"
-				]
+				"series": ["longitude"]
 			
 			}
 		}
