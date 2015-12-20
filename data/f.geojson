@@ -11,11 +11,11 @@
                 ]
             },
             "properties":{
-                "codigo":"faa11",
-                "nome":"Fi,1",
-                "marker-size":"smal",
-                "marker-color":"#008000",
-                "marker-symbol":"college"
+                "codigo": "faa11",
+                "nome": "Fi,1",
+                "marker-size": "smal",
+                "marker-color": "#008000",
+                "marker-symbol": "college"
             }
         },
         {
@@ -28,11 +28,11 @@
                 ]
             },
             "properties":{
-                "codigo":"fbb11",
-                "nome":"http://www.google.com",
-                "marker-size":"medium",
-                "marker-color":"#FFA500",
-                "marker-symbol":"shop"
+                "codigo": "fbb11",
+                "nome": "http://www.google.com",
+                "marker-size": "medium",
+                "marker-color": "#FFA500",
+                "marker-symbol": "shop"
             }
         },
         {
