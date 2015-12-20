@@ -48,6 +48,7 @@
 			"url": "https://github.com/paulolimac/datap/raw/master/data/f.csv",
 			"format": "csv",
 			"mediatype": "text/csv",
+			"encoding": "utf-8",
 			"dialect": {
 				"csvddfVersion": 1.0,
 				"delimiter": ",",
@@ -90,7 +91,8 @@
 			"path": "data/f.geojson",
 			"url": "https://github.com/paulolimac/datap/raw/master/data/f.geojson",
 			"format": "geojson",
-			"mediatype": "application/json"
+			"mediatype": "application/json",
+			"encoding": "utf-8"
 		}
 	],
 	"views": [
