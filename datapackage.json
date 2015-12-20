@@ -96,12 +96,14 @@
 		{
 			"id": "graph1",
 			"label": "Graph 01",
+			"resourceName": "name",
 			"type": "Graph",
 			"state": {
 				"group": "latitude",
 				"series": [
 					"longitude"
-				]
+				],
+				"graphType": "lines-and-points"
 			}
 		}
 	],
