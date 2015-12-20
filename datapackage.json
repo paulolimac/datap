@@ -1,14 +1,11 @@
 {
 	"name": "my-dataset",
-	"title": "Title 2",
+	"title": "Title 1",
 	
 	"resources": [
 		{
 			"name": "name",
 			"path": "data/f.csv",
-	
-			"format": "csv",
-			"mediatype": "text/csv",
 	
 			"schema": {
 				"fields": [
@@ -35,7 +32,7 @@
 					}
 				]
 			}
-		},
+		}
 		
 	],
 	"views": [
@@ -52,6 +49,6 @@
 				"graphType": "lines-and-points"
 			}
 		}
-	],
-	"my-own-attribute": "data-packages-are-awesome"
+	]
+	
 }
