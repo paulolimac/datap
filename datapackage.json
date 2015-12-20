@@ -95,6 +95,7 @@
 	"views": [
 		{
 			"id": "graph1",
+			"resourceName": "name",
 			"type": "Graph",
 			"state": {
 				"group": "latitude",
