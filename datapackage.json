@@ -19,10 +19,8 @@
 		"web": "http://www.site.com"
 	}],
 	"maintainers": [{
-		# like contributors
 	}],
 	"publishers": [{
-		# like contributors
 	}],
 	"dependencies": {
 		"data-package-name": ">=1.0"
