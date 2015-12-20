@@ -24,6 +24,15 @@
 						"type": "string"
 					}
 				]
+			},
+			{
+				"csvddfVersion": 1.0,
+				"delimiter": ",",
+				"doubleQuote": true,
+				"lineTerminator": "\r\n",
+				"quoteChar": "\"",
+				"skipInitialSpace": true,
+				"header": true
 			}
 		},
 		{
