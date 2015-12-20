@@ -87,7 +87,7 @@
 		{
 			"name": "fg",
 			"path": "data/f.geojson",
-			"url": "htt://www.git.com/repo/file.geojson",
+			"url": "https://github.com/paulolimac/datap/raw/master/data/f.geojson",
 			"format": "geojson",
 			"mediatype": "application/json"
 		}
