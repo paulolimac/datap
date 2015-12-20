@@ -99,9 +99,9 @@
 			"resourceName": "name",
 			"type": "Graph",
 			"state": {
-				"group": "longitude",
+				"group": "latitude",
 				"series": [
-					"latitude"
+					"longitude"
 				],
 				"graphType": "lines-and-points"
 			}	
