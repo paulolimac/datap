@@ -25,7 +25,7 @@
 					}
 				]
 			},
-			dialect: {
+			"dialect": {
 				"csvddfVersion": 1.0,
 				"delimiter": ",",
 				"doubleQuote": true,
