@@ -70,7 +70,7 @@
 						"name": "nome",
 						"description": "",
 						"type": "string",
-						"format": "URI"
+						"format": "uri"
 						
 					},
 					{
