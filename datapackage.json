@@ -83,14 +83,8 @@
 					}
 				]
 			}
-		},
-		{
-			"name": "fg",
-			"path": "data/f.geojson",
-			"url": "htt://www.git.com/repo/file.geojson",
-			"format": "geojson",
-			"mediatype": "application/json"
 		}
+		
 	],
 	"views": [
 		{
