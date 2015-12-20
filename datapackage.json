@@ -99,7 +99,7 @@
 			"resourceName": "name",
 			"type": "Graph",
 			"state": {
-				"group": "codigo",
+				"group": "latitude",
 				"series": [
 					"longitude"
 				],
