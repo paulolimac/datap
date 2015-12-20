@@ -106,6 +106,19 @@
 				"graphType": "lines-and-points"
 			}	
 		},
+		{
+			"id": "graph2",
+			"label": "Graph 02",
+			"resourceName": "name",
+			"type": "Graph",
+			"state": {
+				"group": "nome",
+				"series": [
+					"longitude"
+				],
+				"graphType": "lines-and-points"
+			}	
+		}
 	],
 	"my-own-attribute": "data-packages-are-awesome",
 }
