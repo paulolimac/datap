@@ -74,12 +74,12 @@
 					{
 						"name": "latitude",
 						"description": "",
-						"type": "integer"
+						"type": "string"
 					},
 					{
 						"name": "longitude",
 						"description": "",
-						"type": "integer"
+						"type": "string"
 					}
 				]
 			}
