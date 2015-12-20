@@ -97,8 +97,7 @@
 						"name": "marker-symbol",
 						"description": "",
 						"type": "string"
-					},
-					 	 	
+					}
 				]
 			}
 		},
