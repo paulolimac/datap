@@ -1,63 +1,15 @@
 {
 	"name": "my-dataset",
 	"title": "Title 2",
-	"description": "It is a example package description to write any foo information :)",
-	"licenses": [{
-		"url": "http://opendatacommons.org/licenses/pddl/",
-		"name": "Open Data Commons Public Domain",
-		"version": "1.0",
-		"id": "odc-pddl"
-	}],
-	"keywords": ["word1", "keyword 2", "another foo word"],
-	"version": "2015",
-	"datapackage_version": "1.0-beta",
-	"last_update": "2015-12-01",
-	"image": "http://assets.okfn.org/p/opendatahandbook/img/data-wrench.png",
-	"contributors": [{
-		"name": "Foo Contributor",
-		"email": "foo@contributor.com",
-		"web": "http://www.contributor.com"
-	}],
-	"maintainers": [{
-		"name": "Foo Maintainer",
-		"email": "foo@maintainer.com",
-		"web": "http://www.maintainer.com"
-	}],
-	"publishers": [{
-		"name": "Foo Publisher",
-		"email": "foo@publisher.com",
-		"web": "http://www.publisher.com"
-	}],
-	"dependencies": {
-		"data-package-name": ">=1.0"
-	},
-	"sources": [
-		{
-			"name": "Source one",
-			"web": "http://www.source1.com"
-		},
-		{
-			"name": "Second source",
-			"web": "http://www.second.com"
-		}
-	],
+	
 	"resources": [
 		{
 			"name": "name",
 			"path": "data/f.csv",
-			"url": "http://www.git.com/repo/file.csv",
+	
 			"format": "csv",
 			"mediatype": "text/csv",
-			"dialect": {
-				"csvddfVersion": 1.0,
-				"delimiter": ",",
-				"doubleQuote": true,
-				"lineTerminator": "\n",
-				"quoteChar": "\"",
-				"skipInitialSpace": true,
-				"header": true,
-				"caseSensitiveHeader": false
-			},
+	
 			"schema": {
 				"fields": [
 					{
@@ -84,13 +36,7 @@
 				]
 			}
 		},
-		{
-			"name": "fg",
-			"path": "data/f.geojson",
-			"url": "htt://www.git.com/repo/file.geojson",
-			"format": "geojson",
-			"mediatype": "application/json"
-		}
+		
 	],
 	"views": [
 		{
