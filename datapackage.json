@@ -95,7 +95,7 @@
 	"views": [
 		{
 			"id": "graph1",
-			"label": "Graph 01",
+			"label": "Graph01",
 			"resourceName": "name",
 			"type": "Graph",
 			"state": {
