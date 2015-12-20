@@ -2,11 +2,31 @@
 	"name": "my-dataset",
 	"title": "Title 2",
 	"description": "It is a example package description to write any foo information :)",
-	"license": "",
+	"licenses": [{
+		"url": "http://opendatacommons.org/licenses/pddl/",
+		"name": "Open Data Commons Public Domain",
+		"version": "1.0",
+		"id": "odc-pddl"
+	}],
 	"keywords": ["word1", "keyword 2", "another foo word"],
 	"version": "2015",
+	"datapackage_version": "1.0-beta",
 	"last_update": "2015-12-01",
-	"image":   "http://assets.okfn.org/p/opendatahandbook/img/data-wrench.png",
+	"image": "http://assets.okfn.org/p/opendatahandbook/img/data-wrench.png",
+	"contributors": [{
+		"name": "Foo",
+		"email": "foo@email.com",
+		"web": "http://www.site.com"
+	}],
+	"maintainers": [{
+		# like contributors
+	}],
+	"publishers": [{
+		# like contributors
+	}],
+	"dependencies": {
+		"data-package-name": ">=1.0"
+	},
 	"sources": [
 		{
 			"name": "Source one",
