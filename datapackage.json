@@ -106,6 +106,5 @@
 				"graphType": "lines-and-points"
 			}
 		}
-	],
-	"my-own-attribute": "data-packages-are-awesome"
+	]
 }
