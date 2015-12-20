@@ -1,10 +1,29 @@
 {
 	"name": "my-dataset",
 	"title": "Title",
+	"description": "It is a example package description to write any foo information :)",
+	"license": "",
+	"keywords": ["word1", "keyword 2", "another foo word"],
+	"version": "2015",
+	"last_update": "2015-12-01",
+	"image":   "http://assets.okfn.org/p/opendatahandbook/img/data-wrench.png",
+	"path": "data/f.csv",
+	"sources": [{
+		"name": "Source one",
+		"web": "http://www.source1.com"
+	}],
 	"resources": [
 		{
 			"name": "name",
-			"path": "data/f.csv",
+			"dialect": {
+				"csvddfVersion": 1.0,
+				"delimiter": ",",
+				"doubleQuote": true,
+				"lineTerminator": "\n",
+				"quoteChar": "\"",
+				"skipInitialSpace": true,
+				"header": true
+			},
 			"schema": {
 				"fields": [
 					{
@@ -24,15 +43,6 @@
 						"type": "string"
 					}
 				]
-			},
-			"dialect": {
-				"csvddfVersion": 1.0,
-				"delimiter": ",",
-				"doubleQuote": true,
-				"lineTerminator": "\r\n",
-				"quoteChar": "\"",
-				"skipInitialSpace": true,
-				"header": true
 			}
 		},
 		{
