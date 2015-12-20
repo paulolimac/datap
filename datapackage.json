@@ -91,6 +91,5 @@
 			"format": "geojson",
 			"mediatype": "application/json"
 		}
-	],
-	# "views": [{}]
+	]
 }
