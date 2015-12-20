@@ -45,7 +45,7 @@
 		{
 			"name": "name",
 			"path": "data/f.csv",
-			"url": "https://github.com/paulolimac/datap/blob/master/data/f.csv",
+			"url": "https://github.com/paulolimac/datap/raw/master/data/f.csv",
 			"format": "csv",
 			"mediatype": "text/csv",
 			"dialect": {
