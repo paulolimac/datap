@@ -91,5 +91,21 @@
 			"format": "geojson",
 			"mediatype": "application/json"
 		}
-	]
+	],
+	"views": [
+		{
+			"id": "graph1",
+			"label": "Graph 01",
+			"resourceName": "name",
+			"type": "Graph",
+			"state": {
+				"group": "nome",
+				"series": [
+					"latitude"
+				],
+				"graphType": "lines-and-points"
+			}	
+		},
+	],
+	"my-own-attribute": "data-packages-are-awesome",
 }
