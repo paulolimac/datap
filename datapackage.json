@@ -92,9 +92,5 @@
 			"mediatype": "application/json"
 		}
 	],
-	"views": [
-		{
-			
-		}
-	]
+	# "views": [{}]
 }
