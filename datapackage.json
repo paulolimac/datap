@@ -82,7 +82,23 @@
 						"name": "longitude",
 						"description": "",
 						"type": "integer"
-					}
+					},
+					{
+						"name": "marker-size",
+						"description": "",
+						"type": "string"
+					},
+					{
+						"name": "marker-color",
+						"description": "",
+						"type": "string"
+					},
+					{
+						"name": "marker-symbol",
+						"description": "",
+						"type": "string"
+					},
+					 	 	
 				]
 			}
 		},
