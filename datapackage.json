@@ -1,6 +1,6 @@
 {
 	"name": "my-dataset",
-	"title": "Title 2",
+	"title": "Title Dialect",
 	"description": "It is a example package description to write any foo information :)",
 	"licenses": [{
 		"url": "http://opendatacommons.org/licenses/pddl/",
@@ -48,16 +48,7 @@
 			"url": "http://www.git.com/repo/file.csv",
 			"format": "csv",
 			"mediatype": "text/csv",
-			"dialect": {
-				"csvddfVersion": 1.0,
-				"delimiter": ",",
-				"doubleQuote": true,
-				"lineTerminator": "\n",
-				"quoteChar": "\"",
-				"skipInitialSpace": true,
-				"header": true,
-				"caseSensitiveHeader": false
-			},
+			
 			"schema": {
 				"fields": [
 					{
