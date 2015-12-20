@@ -21,6 +21,8 @@
 		{
 			"name": "name",
 			"path": "data/f.csv",
+			"format": "csv",
+			"mediatype": "text/csv",
 			"dialect": {
 				"csvddfVersion": 1.0,
 				"delimiter": ",",
@@ -35,18 +37,22 @@
 				"fields": [
 					{
 						"name": "codigo",
+						"description": "",
 						"type": "string"
 					},
 					{
 						"name": "nome",
+						"description": "",
 						"type": "string"
 					},
 					{
 						"name": "latitude",
+						"description": "",
 						"type": "string"
 					},
 					{
 						"name": "longitude",
+						"description": "",
 						"type": "string"
 					}
 				]
