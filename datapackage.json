@@ -7,10 +7,16 @@
 	"version": "2015",
 	"last_update": "2015-12-01",
 	"image":   "http://assets.okfn.org/p/opendatahandbook/img/data-wrench.png",
-	"sources": [{
-		"name": "Source one",
-		"web": "http://www.source1.com"
-	}],
+	"sources": [
+		{
+			"name": "Source one",
+			"web": "http://www.source1.com"
+		},
+		{
+			"name": "Second source",
+			"web": "http://www.second.com"
+		}
+	],
 	"resources": [
 		{
 			"name": "name",
