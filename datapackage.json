@@ -27,42 +27,6 @@
 						"name": "fora"
 					}
 				],
-				"primaryKey": "codigo",
-				"foreignKeys": [
-					{
-						"fields": "fora",
-						"reference": {
-							"datapackage": "",
-							"resource": "self",
-							"fields": "codigo"
-						}
-					}
-				]
-			}
-		},
-		{
-			"name": "nameG",
-			"path": "data/g.csv",
-			"schema": {
-				"fields": [
-					{
-						"name": "codigo",
-						"type": "string"
-					},
-					{
-						"name": "nome",
-						"type": "string"
-					},
-					{
-						"name": "latitude",
-						"type": "string"
-					},
-					{
-						"name": "longitude",
-						"type": "string"
-					}
-				],
-				"primaryKey": "codigo"
 			}
 		},
 		{
