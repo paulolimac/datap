@@ -14,13 +14,19 @@
 	"last_update": "2015-12-01",
 	"image": "http://assets.okfn.org/p/opendatahandbook/img/data-wrench.png",
 	"contributors": [{
-		"name": "Foo",
-		"email": "foo@email.com",
-		"web": "http://www.site.com"
+		"name": "Foo Contributor",
+		"email": "foo@contributor.com",
+		"web": "http://www.contributor.com"
 	}],
 	"maintainers": [{
+		"name": "Foo Maintainer",
+		"email": "foo@maintainer.com",
+		"web": "http://www.maintainer.com"
 	}],
 	"publishers": [{
+		"name": "Foo Publisher",
+		"email": "foo@publisher.com",
+		"web": "http://www.publisher.com"
 	}],
 	"dependencies": {
 		"data-package-name": ">=1.0"
