@@ -45,6 +45,7 @@
 		{
 			"name": "name",
 			"path": "data/f.csv",
+			"url": "http://www.git.com/repo/file.csv",
 			"format": "csv",
 			"mediatype": "text/csv",
 			"dialect": {
@@ -86,8 +87,14 @@
 		{
 			"name": "fg",
 			"path": "data/f.geojson",
+			"url": "htt://www.git.com/repo/file.geojson",
 			"format": "geojson",
 			"mediatype": "application/json"
+		}
+	],
+	views: [
+		{
+			
 		}
 	]
 }
