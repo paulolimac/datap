@@ -95,15 +95,13 @@
 	"views": [
 		{
 			"id": "graph1",
-			"label": "Graph01",
-			"resourceName": "name",
 			"type": "Graph",
 			"state": {
 				"group": "latitude",
 				"series": [
 					"longitude"
-				],
-				"graphType": "lines-and-points"
+				]
+			
 			}
 		}
 	],
