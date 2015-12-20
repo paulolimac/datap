@@ -68,8 +68,8 @@
 					{
 						"name": "nome",
 						"description": "",
-						"type": "string",
-						"format": "URI"
+						"type": "url"
+						
 					},
 					{
 						"name": "latitude",
