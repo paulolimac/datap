@@ -1,6 +1,6 @@
 {
 	"name": "my-dataset",
-	"title": "Title 3",
+	"title": "Title of Datapackage",
 	"description": "It is a example package description to write any foo information :)",
 	"licenses": [{
 		"url": "http://opendatacommons.org/licenses/pddl/",
@@ -43,9 +43,9 @@
 	],
 	"resources": [
 		{
-			"name": "name",
-			"path": "data/f.csv",
-			"url": "https://github.com/paulolimac/datap/raw/master/data/f.csv",
+			"name": "coordinates",
+			"path": "data/simpleCoordinates.csv",
+			"url": "https://github.com/paulolimac/datap/raw/master/data/simpleCoordinates.csv",
 			"format": "csv",
 			"mediatype": "text/csv",
 			"encoding": "utf-8",
@@ -62,16 +62,14 @@
 			"schema": {
 				"fields": [
 					{
-						"name": "codigo",
+						"name": "id",
 						"description": "",
 						"type": "string"
 					},
 					{
-						"name": "nome",
+						"name": "namee",
 						"description": "",
-						"type": "string",
-						"format": "uri"
-						
+						"type": "string"
 					},
 					{
 						"name": "latitude",
@@ -102,9 +100,9 @@
 			}
 		},
 		{
-			"name": "fg",
-			"path": "data/f.geojson",
-			"url": "https://github.com/paulolimac/datap/raw/master/data/f.geojson",
+			"name": "map",
+			"path": "data/simpleCoordinates.geojson",
+			"url": "https://github.com/paulolimac/datap/raw/master/data/simpleCoordinates.geojson",
 			"format": "geojson",
 			"mediatype": "application/json",
 			"encoding": "utf-8"
@@ -125,5 +123,5 @@
 			}
 		}
 	],
-	"my-own-attribute": "data-packages-are-awesome"
+	"my-own-attribute": "my new attribute goes here :)"
 }
