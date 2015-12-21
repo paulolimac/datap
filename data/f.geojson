@@ -13,7 +13,7 @@
             "properties":{
                 "id":"id1",
                 "name":"Point 1",
-                "marker-size":"smal",
+                "marker-size":"small",
                 "marker-color":"#008000",
                 "marker-symbol":"college"
             }
