@@ -67,7 +67,7 @@
 						"type": "string"
 					},
 					{
-						"name": "namee",
+						"name": "name",
 						"description": "",
 						"type": "string"
 					},
