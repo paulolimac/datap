@@ -1,4 +1,4 @@
-"codigo","nome","latitude","longitude","marker-size","marker-color","marker-symbol"
-"faa11","Fi,1","40","50","smal","#008000","college"
-"fbb11","http://www.google.com","41","51","medium","#FFA500","shop"
-"fcc11","Fi,3","42","52","large","#FFFF00","bank"
+"id","name","latitude","longitude","marker-size","marker-color","marker-symbol"
+"id1","Point 1","40","50","smal","#008000","college"
+"id2","Point 2","41","51","medium","#FFA500","shop"
+"id3","Point 3","42","52","large","#FFFF00","bank"
