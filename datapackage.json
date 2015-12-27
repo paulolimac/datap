@@ -108,7 +108,7 @@
 			"encoding": "utf-8"
 		},
 		{
-			"name": "coordinates",
+			"name": "fieldTypes",
 			"path": "data/fieldTypes.csv",
 			"url": "https://github.com/paulolimac/datap/raw/master/data/fieldTypes.csv",
 			"format": "csv",
