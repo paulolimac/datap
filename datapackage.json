@@ -191,6 +191,12 @@
 						"description": "",
 						"type": "object",
 						"format": "default"
+					},
+					{
+						"name": "array-default",
+						"description": "",
+						"type": "array",
+						"format": "default"
 					}
 					
 				]
