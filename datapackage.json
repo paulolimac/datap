@@ -54,7 +54,7 @@
 				"delimiter": ",",
 				"doubleQuote": true,
 				"lineTerminator": "\n",
-				"quoteChar": "\"",
+				"quoteChar": "\""",
 				"skipInitialSpace": true,
 				"header": true,
 				"caseSensitiveHeader": false
