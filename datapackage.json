@@ -257,6 +257,42 @@
 						"description": "",
 						"type": "duration",
 						"format": "default"
+					},
+					{
+						"name": "geopoint-default",
+						"description": "",
+						"type": "geopoint",
+						"format": "default"
+					},
+					{
+						"name": "geopoint-array",
+						"description": "",
+						"type": "geopoint",
+						"format": "array"
+					},
+					{
+						"name": "geopoint-object",
+						"description": "",
+						"type": "geopoint",
+						"format": "object"
+					},
+					{
+						"name": "geojson-default",
+						"description": "",
+						"type": "geojson",
+						"format": "default"
+					},
+					{
+						"name": "geojson-topojson",
+						"description": "",
+						"type": "geojson",
+						"format": "topojson"
+					},
+					{
+						"name": "any",
+						"description": "",
+						"type": "any",
+						"format": ""
 					}
 					
 				]
