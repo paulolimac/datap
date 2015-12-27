@@ -211,10 +211,52 @@
 						"format": "any"
 					},
 					{
-						"name": "datetime",
+						"name": "datetime-fmt:PATTERN",
 						"description": "",
 						"type": "datetime",
 						"format": "fmt:%d/%b/%y-%H:%M:%S"
+					},
+					{
+						"name": "date-default",
+						"description": "",
+						"type": "date",
+						"format": "default"
+					},
+					{
+						"name": "date-any",
+						"description": "",
+						"type": "date",
+						"format": "any"
+					},
+					{
+						"name": "date-fmt:PATTERN",
+						"description": "",
+						"type": "date",
+						"format": "fmt:%d/%b/%y"
+					},
+					{
+						"name": "time-default",
+						"description": "",
+						"type": "time",
+						"format": "default"
+					},
+					{
+						"name": "time-any",
+						"description": "",
+						"type": "time",
+						"format": "any"
+					},
+					{
+						"name": "time-fmt:PATTERN",
+						"description": "",
+						"type": "time",
+						"format": "fmt:%H:%M:%S"
+					},
+					{
+						"name": "duration-default",
+						"description": "",
+						"type": "duration",
+						"format": "default"
 					}
 					
 				]
