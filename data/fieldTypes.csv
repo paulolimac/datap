@@ -1,5 +1,5 @@
 "string-default","string-email","string-uri","string-binary","string-uuid"
 "Register 1","foo@foo.com","http://www.foo.com","UmVnaXN0ZXIgMQ==","c704ea4e-1bee-4900-9864-47a62785beb2"
-"Row 2","doo@doo.cn","ftp://public.ftp-servers.example.com/mydirectory","Um93IDI=","7e90c77e-efbd-4e61-bca1-2c0550eafb0e"
+"Row 2","doo@doo.cn","ftp://public.ftp-servers.example.com","Um93IDI=","7e90c77e-efbd-4e61-bca1-2c0550eafb0e"
 "Another record 3","boo@boo.org","https://www.boo.org","QW5vdGhlciByZWNvcmQgMw==","be276538-74bb-4dc3-b2b7-c59a64258ecd"
 "Yet other book 4","The-four@four.co","http://four.net","WWV0IG90aGVyIGJvb2sgNA==","5866b4db-d6f5-4193-b748-d3e82578a772"
