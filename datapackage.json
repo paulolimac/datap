@@ -197,6 +197,24 @@
 						"description": "",
 						"type": "array",
 						"format": "default"
+					},
+					{
+						"name": "datetime-default",
+						"description": "",
+						"type": "datetime",
+						"format": "default"
+					},
+					{
+						"name": "datetime-any",
+						"description": "",
+						"type": "datetime",
+						"format": "any"
+					},
+					{
+						"name": "datetime",
+						"description": "",
+						"type": "datetime",
+						"format": "fmt:%d/%b/%y-%H:%M:%S"
 					}
 					
 				]
