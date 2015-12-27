@@ -155,6 +155,36 @@
 						"description": "",
 						"type": "string",
 						"format": "uuid"
+					},
+					{
+						"name": "number-default",
+						"description": "",
+						"type": "number",
+						"format": "default"
+					},
+					{
+						"name": "number-currency",
+						"description": "",
+						"type": "number",
+						"format": "currency"
+					},
+					{
+						"name": "integer-default",
+						"description": "",
+						"type": "integer",
+						"format": "default"
+					},
+					{
+						"name": "boolean-default",
+						"description": "",
+						"type": "boolean",
+						"format": "default"
+					},
+					{
+						"name": "null-default",
+						"description": "",
+						"type": "null",
+						"format": "default"
 					}
 					
 				]
