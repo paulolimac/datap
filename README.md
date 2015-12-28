@@ -43,7 +43,7 @@ To use, follow these steps:
 - [Datapackage Explorer](http://explorer.okfnlabs.org/ "Experimental explorer"): it is a experimental tool to edit or show your `csv files` more easly.
 To use, follow these steps:
   1. Open it [Data Explorer Loader](http://explorer.okfnlabs.org/#load "Experimental explorer").
-  2. Upload the `csv files` or type the link to your `csv file`; in our case can be `https://raw.githubusercontent.com/paulolimac/datap/master/datapackage-examplified/simpleCoordinates.csv`.
+  2. Upload the `csv files` or type the link to your `csv file`; in our case can be `https://raw.githubusercontent.com/paulolimac/datapackage-examplified/master/data/simpleCoordinates.csv`.
   3. After see a preview from your csv file, click on at `save button`.
   4. Finally, you can edit the csv file and see the results by tables, graphs and maps.
 
