@@ -29,23 +29,23 @@ The tools are:
 - [Data Package Validator](http://data.okfn.org/tools/validate "Official Validator"): this tool is useful to validade the datapackage configuration.
 More specificaly, it validates if `datapackage.json` file is write properly by the official OKFN protocols and standards.
 To use, follow these steps:
-  1- Open it [Data Package Validator](http://data.okfn.org/tools/validate "Official Validator").
-  2- Type the link to your `datapackage` or the `datapackage.json` file; in our case can be `https://github.com/paulolimac/datap` or `https://raw.github.com/paulolimac/datap/master/datapackage.json`.
-  3- It will show a [message](http://data.okfn.org/tools/validate?url=https%3A%2F%2Fgithub.com%2Fpaulolimac%2Fdatap "results") that can be:
+  1. Open it [Data Package Validator](http://data.okfn.org/tools/validate "Official Validator").
+  2. Type the link to your `datapackage` or the `datapackage.json` file; in our case can be `https://github.com/paulolimac/datap` or `https://raw.github.com/paulolimac/datap/master/datapackage.json`.
+  3. It will show a [message](http://data.okfn.org/tools/validate?url=https%3A%2F%2Fgithub.com%2Fpaulolimac%2Fdatap "results") that can be:
     - `valid` if it is correct or,
     - `invalid` plus the error message to be corrected.
 - [DataPackage Viewer](http://data.okfn.org/tools/view "Official viewer"): this tool permits to view all data in a easy way.
 All tables, graphs and maps will stay well formated.
 To use, follow these steps:
-  1- Open it [Data Package Validator](http://data.okfn.org/tools/view "Official viewer").
-  2- Type the link to your `datapackage`; in our case can be `https://github.com/paulolimac/datap`.
-  3- It will show the [datapackage](http://data.okfn.org/tools/view?url=https%3A%2F%2Fgithub.com%2Fpaulolimac%2Fdatap "datapackage") well formated.
+  1. Open it [Data Package Validator](http://data.okfn.org/tools/view "Official viewer").
+  2. Type the link to your `datapackage`; in our case can be `https://github.com/paulolimac/datap`.
+  3. It will show the [datapackage](http://data.okfn.org/tools/view?url=https%3A%2F%2Fgithub.com%2Fpaulolimac%2Fdatap "datapackage") well formated.
 - [Datapackage Explorer](http://explorer.okfnlabs.org/ "Experimental explorer"): it is a experimental tool to edit or show your `csv files` more easly.
 To use, follow these steps:
-  1- Open it [Data Explorer Loader](http://explorer.okfnlabs.org/#load "Experimental explorer").
-  2- Upload the `csv files` or type the link to your `csv file`; in our case can be `https://raw.githubusercontent.com/paulolimac/datap/master/data/simpleCoordinates.csv`.
-  3- After see a preview from your csv file, click on at `save button`.
-  4- Finally, you can edit the csv file and see the results by tables, graphs and maps.
+  1. Open it [Data Explorer Loader](http://explorer.okfnlabs.org/#load "Experimental explorer").
+  2. Upload the `csv files` or type the link to your `csv file`; in our case can be `https://raw.githubusercontent.com/paulolimac/datap/master/data/simpleCoordinates.csv`.
+  3. After see a preview from your csv file, click on at `save button`.
+  4. Finally, you can edit the csv file and see the results by tables, graphs and maps.
 
 # License
 
