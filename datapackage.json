@@ -45,7 +45,7 @@
 		{
 			"name": "coordinates",
 			"path": "data/simpleCoordinates.csv",
-			"url": "https://github.com/paulolimac/datap/raw/master/data/simpleCoordinates.csv",
+			"url": "https://github.com/paulolimac/datapackage-examplified/raw/master/data/simpleCoordinates.csv",
 			"format": "csv",
 			"mediatype": "text/csv",
 			"encoding": "utf-8",
@@ -102,7 +102,7 @@
 		{
 			"name": "map",
 			"path": "data/simpleCoordinates.geojson",
-			"url": "https://github.com/paulolimac/datap/raw/master/data/simpleCoordinates.geojson",
+			"url": "https://github.com/paulolimac/datapackage-examplified/raw/master/data/simpleCoordinates.geojson",
 			"format": "geojson",
 			"mediatype": "application/json",
 			"encoding": "utf-8"
@@ -110,7 +110,7 @@
 		{
 			"name": "fieldTypes",
 			"path": "data/fieldTypes.csv",
-			"url": "https://github.com/paulolimac/datap/raw/master/data/fieldTypes.csv",
+			"url": "https://github.com/paulolimac/datapackage-examplified/raw/master/data/fieldTypes.csv",
 			"format": "csv",
 			"mediatype": "text/csv",
 			"encoding": "utf-8",
