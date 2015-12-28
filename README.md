@@ -10,12 +10,12 @@ Plus that, a simple view was coded to plot a graph in proper tools.
 
 # Data
 
-This dataset contains [files](https://github.com/paulolimac/datap/tree/master/data "data") to ilustrate the usage of opendata.
+This dataset contains [files](https://github.com/paulolimac/datapackage-examplified/tree/master/data "data") to ilustrate the usage of opendata.
 There are compose by the follow data files:
 
-- [Simple table](https://github.com/paulolimac/datap/blob/master/data/simpleCoordinates.csv "csv") with latitude and longitude.
-- [Simple geographical points](https://github.com/paulolimac/datap/blob/master/data/simpleCoordinates.geojson "GeoJson") derivated from simple table.
-- [Field Types](https://github.com/paulolimac/datap/blob/master/data/fieldTypes.csv "csv") with all kinds of data types and formats.
+- [Simple table](https://github.com/paulolimac/datapackage-examplified/blob/master/data/simpleCoordinates.csv "csv") with latitude and longitude.
+- [Simple geographical points](https://github.com/paulolimac/datapackage-examplified/blob/master/data/simpleCoordinates.geojson "GeoJson") derivated from simple table.
+- [Field Types](https://github.com/paulolimac/datapackage-examplified/blob/master/data/fieldTypes.csv "csv") with all kinds of data types and formats.
 
 All recorded data were only random data.
 So you may use it to organize your own datapackage from scratch.
